@@ -24,7 +24,7 @@
 
 ### Course Breakdown:
 
-#### Week 1: Introduction(wk1.md)
+#### [Week 1: Introduction](wk1.md)
 * IoT 
 * Web Basics Review
     * URL Format
@@ -40,8 +40,10 @@
 * Set-Up
     * C9 Web Server Set-up 
     * Creating an running Webpages on C9 
+* **In-class Exercises/Challenges: **
+    * Hello World Web Page thru C9.
     
-#### Week 2: C/C# Syntax(wk2.md)  
+#### [Week 2: C/C# Syntax](wk2.md)  
 * Partical Cloud Overview
 * C /C# Syntax Review
     * void setup
@@ -51,14 +53,13 @@
     * Types
     * If Statements
 * **In-class Exercises/Challenges: **
-    * Hello World Web Page thru C9.
     * Blink the blue LED.
     * Control the blue LED.
     * Build the Morse Code Flasher App.
 * **Vocabulary**:
     * Internet Of Things (IoT), Browser, Web Server, Protocol, Server, Path, ISP, DNS, IP Address, HTTP Request, HTTP Respond, Client Side Programming, Server Side Programming, Microcontroller, Micro-Computer, Digital to Analog Converter (DAC)
 
-#### Week 2b: Schematics & Relays(wk2b.md)
+#### [Week 2b: Schematics & Relays](wk2b.md)
 * Breadboards/Schematics
     * How It Works?
     * How To Read/Draw A Schematic
