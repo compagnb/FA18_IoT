@@ -40,8 +40,9 @@
 * Set-Up
     * C9 Web Server Set-up 
     * Creating an running Webpages on C9 
-    * C9 Particle Set-up
-    * Partical Cloud Overview
+    
+#### Week 2: C/C# Syntax   
+* Partical Cloud Overview
 * C /C# Syntax Review
     * void setup
     * void loop
@@ -57,7 +58,7 @@
 * **Vocabulary**:
     * Internet Of Things (IoT), Browser, Web Server, Protocol, Server, Path, ISP, DNS, IP Address, HTTP Request, HTTP Respond, Client Side Programming, Server Side Programming, Microcontroller, Micro-Computer, Digital to Analog Converter (DAC)
 
-#### Week 2: Schematics & Relays
+#### Week 2b: Schematics & Relays
 * Breadboards/Schematics
     * How It Works?
     * How To Read/Draw A Schematic
